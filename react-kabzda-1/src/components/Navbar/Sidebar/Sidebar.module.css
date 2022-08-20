@@ -1,0 +1,37 @@
+.sideItem {
+    margin-top: 50px;
+    font-size: 35px;
+    color: white;
+}
+.avaImage,
+.sideBtn,
+.sideName {
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 5px;
+}
+.sideButton {
+    background-color: yellow;
+    border-radius: 50%;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: 7px;
+    margin-top: 20px;
+}
+.sideNames {
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.avaImg {
+    border-radius: 50%;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: 7px;
+    margin-top: 20px;
+}
+
+
+
